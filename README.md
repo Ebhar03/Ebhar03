@@ -8,7 +8,7 @@ Information Technology graduate (Data Mining track) with academic and institutio
 
 ### 🛠️ Technical Skills & Tools
 * **Data Analysis & BI:** Power BI, DAX, Power Query, Excel
-* **Programming & Statistics:** Python (Pandas), SQL, SPSS
+* **Programming & Statistics:** Python, SQL, SPSS
 * **Design & UI/UX:** Figma
 * **Front-End Development:** HTML5, CSS3, JavaScript
 
