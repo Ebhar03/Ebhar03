@@ -18,7 +18,7 @@ I enjoy transforming raw data into meaningful insights that support better decis
 
 ### Tools & Technologies
 
-Python | SQL | Power BI | Excel | Pandas | SPSS | Git | GitHub
+Python | SQL | Power BI | Excel | SPSS | Git | GitHub
 
 ### Featured Projects
 
@@ -29,7 +29,7 @@ Python | SQL | Power BI | Excel | Pandas | SPSS | Git | GitHub
 
 **2. ChatGPT Impact Analysis**
 - Conducted an analytical study on the impact of AI tools on student behavior and academic achievement.
-- Used Python, Pandas, and SPSS for data analysis.
+- Used Python, and SPSS for data analysis.
 
 **3. CARESTA-NOVA**
 - Developed a responsive digital storytelling website using HTML and CSS.
